@@ -2,7 +2,8 @@
 title: "Progressing Teacher Notes"
 author: "Spring 2021"
 output: 
-  html_document: rmdformats::material 
+  rmdformats::material 
+    keep_md: true
 ---
 
 # Overview
