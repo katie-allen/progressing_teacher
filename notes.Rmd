@@ -1,19 +1,66 @@
 ---
 title: "Progressing Teacher Notes"
 author: "Spring 2021"
-output: 
-  rmdformats::material 
-    keep_md: true
+output: rmdformats::material 
 ---
 
 # Overview
 
-# Things I Learned
+On the first day of every semester I share the BYU - Idaho mission statement with my students.
 
-## Topic One
+> *Brigham Young University-Idaho was founded and is supported and guided by The Church of Jesus Christ of Latter-day Saints. Its mission is to develop disciples of Jesus Christ who are leaders in their homes, the Church, and their communities.*
 
-## Topic Two
+We discuss how learning data science can make us better disciples of Jesus Christ and better leaders (both big "L" and small "l"). My hope is that students develop a greater appreciation for the skills they learn and understand those skills in an eternal context.
 
-# Application and Goals
+I would like to apply the same context to my favorite topics from the progressing teacher course. I believe this will provide greater clarity and motivation as I set goals for future semesters.
 
-# Resources
+The topics I cover are:
+
+1. Starting the semester with power and clarity
+1. Promoting student success (high love, high expectations)
+1. Crafting and asking good questions
+1. Beginning and ending class well
+
+# 1. Syllabus Day
+
+## Notes
+
+## Mission
+
+Starting the semester with power and clarity 1.1?
+
+Killing syllabus day
+
+And lighting the fire
+Experiential learning
+
+Get them into the material.
+
+How does this make them a better disciple and leader?
+
+# 2. High Love, High Expectations
+
+"promoting student success" (1.2)
+Helping Students Take Responsibility for Their Own Learning (Brian) (3.2)
+
+
+Helping students own their learning
+
+High love, high expectations.
+
+
+
+# 3. Asking Questions
+
+Crafting questions and asking them well
+Crafting and Asking Good Questions (Rob) (4.3)
+
+# 4. Beginning and Ending Class
+
+Beginning and Ending Class Well (Sid) (11.1)
+
+well
+
+
+
+# Other Resources
